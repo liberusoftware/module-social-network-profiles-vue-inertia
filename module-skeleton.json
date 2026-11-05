@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-profiles-vue-inertia",
+  "capabilityKey": "liberusoftware/module-social-network-profiles",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-social-network-profiles-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/social-network/nextjs/social-network-profiles.md",
+  "presentationPlan": "projects/social-network/vue/social-network-profiles.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
